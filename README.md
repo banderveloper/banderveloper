@@ -20,7 +20,7 @@ I’ve gone from deep self-doubt and disappointment to a steady, focused path to
 
 ## 🚀 My Core Responsibilities
 
-- 🔧 **Developing complex web applications and services using ASP.NET / ASP.NET Core**
+- 🔧 **Developing complex web applications and services using ASP.NET Core**
 - 🧩 **Designing scalable and maintainable software architectures**
 - 🔗 **Integrating with external APIs, databases, and third-party services**
 - 🧪 **Conducting unit and integration testing to ensure code stability and reliability**
